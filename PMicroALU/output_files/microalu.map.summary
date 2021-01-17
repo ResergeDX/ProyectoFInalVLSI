@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sun Jan 03 18:58:18 2021
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : microalu
+Top-level Entity Name : top
+Family : MAX 10
+Total logic elements : 821
+    Total combinational functions : 699
+    Dedicated logic registers : 192
+Total registers : 192
+Total pins : 33
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

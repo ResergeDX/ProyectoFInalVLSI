@@ -1,0 +1,209 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'fetch:fetch|conta:u2|present_state[0]'
+Slack : -6.816
+TNS   : -188.036
+
+Type  : Slow 1200mV 85C Model Setup 'genMhz:genMHz|clk25mhz'
+Slack : -4.163
+TNS   : -134.477
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -2.948
+TNS   : -54.683
+
+Type  : Slow 1200mV 85C Model Setup 'reloj_lento:reloj|led'
+Slack : -2.745
+TNS   : -188.579
+
+Type  : Slow 1200mV 85C Model Setup 'fetch:fetch|reloj_lento:u1|led'
+Slack : -1.399
+TNS   : -4.481
+
+Type  : Slow 1200mV 85C Model Hold 'fetch:fetch|conta:u2|present_state[0]'
+Slack : -0.033
+TNS   : -0.033
+
+Type  : Slow 1200mV 85C Model Hold 'genMhz:genMHz|clk25mhz'
+Slack : 0.342
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'fetch:fetch|reloj_lento:u1|led'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.637
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'reloj_lento:reloj|led'
+Slack : 0.700
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'fetch:fetch|conta:u2|present_state[0]'
+Slack : -5.520
+TNS   : -26.263
+
+Type  : Slow 1200mV 85C Model Removal 'fetch:fetch|conta:u2|present_state[0]'
+Slack : 1.716
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -42.284
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'reloj_lento:reloj|led'
+Slack : -1.403
+TNS   : -162.748
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'genMhz:genMHz|clk25mhz'
+Slack : -1.403
+TNS   : -61.732
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fetch:fetch|reloj_lento:u1|led'
+Slack : -1.403
+TNS   : -5.612
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fetch:fetch|conta:u2|present_state[0]'
+Slack : -0.141
+TNS   : -4.214
+
+Type  : Slow 1200mV 0C Model Setup 'fetch:fetch|conta:u2|present_state[0]'
+Slack : -6.336
+TNS   : -175.407
+
+Type  : Slow 1200mV 0C Model Setup 'genMhz:genMHz|clk25mhz'
+Slack : -3.743
+TNS   : -119.475
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -2.634
+TNS   : -47.621
+
+Type  : Slow 1200mV 0C Model Setup 'reloj_lento:reloj|led'
+Slack : -2.491
+TNS   : -165.221
+
+Type  : Slow 1200mV 0C Model Setup 'fetch:fetch|reloj_lento:u1|led'
+Slack : -1.221
+TNS   : -3.853
+
+Type  : Slow 1200mV 0C Model Hold 'fetch:fetch|conta:u2|present_state[0]'
+Slack : 0.056
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'genMhz:genMHz|clk25mhz'
+Slack : 0.307
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'fetch:fetch|reloj_lento:u1|led'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.588
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'reloj_lento:reloj|led'
+Slack : 0.650
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'fetch:fetch|conta:u2|present_state[0]'
+Slack : -5.292
+TNS   : -24.939
+
+Type  : Slow 1200mV 0C Model Removal 'fetch:fetch|conta:u2|present_state[0]'
+Slack : 1.492
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -42.284
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'reloj_lento:reloj|led'
+Slack : -1.403
+TNS   : -162.748
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'genMhz:genMHz|clk25mhz'
+Slack : -1.403
+TNS   : -61.732
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fetch:fetch|reloj_lento:u1|led'
+Slack : -1.403
+TNS   : -5.612
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fetch:fetch|conta:u2|present_state[0]'
+Slack : 0.042
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'fetch:fetch|conta:u2|present_state[0]'
+Slack : -2.783
+TNS   : -71.876
+
+Type  : Fast 1200mV 0C Model Setup 'genMhz:genMHz|clk25mhz'
+Slack : -1.175
+TNS   : -31.467
+
+Type  : Fast 1200mV 0C Model Setup 'reloj_lento:reloj|led'
+Slack : -0.740
+TNS   : -24.609
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -0.714
+TNS   : -8.381
+
+Type  : Fast 1200mV 0C Model Setup 'fetch:fetch|reloj_lento:u1|led'
+Slack : -0.161
+TNS   : -0.341
+
+Type  : Fast 1200mV 0C Model Hold 'fetch:fetch|conta:u2|present_state[0]'
+Slack : 0.011
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'genMhz:genMHz|clk25mhz'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'fetch:fetch|reloj_lento:u1|led'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'reloj_lento:reloj|led'
+Slack : 0.230
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.246
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'fetch:fetch|conta:u2|present_state[0]'
+Slack : -2.321
+TNS   : -10.664
+
+Type  : Fast 1200mV 0C Model Removal 'fetch:fetch|conta:u2|present_state[0]'
+Slack : 0.605
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -32.075
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'reloj_lento:reloj|led'
+Slack : -1.000
+TNS   : -116.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'genMhz:genMHz|clk25mhz'
+Slack : -1.000
+TNS   : -44.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fetch:fetch|reloj_lento:u1|led'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fetch:fetch|conta:u2|present_state[0]'
+Slack : 0.045
+TNS   : 0.000
+
+------------------------------------------------------------
